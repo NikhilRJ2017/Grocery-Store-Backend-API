@@ -11,6 +11,7 @@ Before installing below are some points that has to be notes;
 - User has been categorized into 'admin' and 'customer'
 - For simplicity, the **1st signed** up user will be the 'admin'
 - 'admin' has below privileges
+
 		- Only admin can create product and update it
 		- Only admin can fetch all customers
 		- Only admin can fetch customer order lists
